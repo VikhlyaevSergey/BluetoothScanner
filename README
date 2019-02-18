@@ -1,0 +1,9 @@
+This little app created specially for fast checking BLE devices.
+
+/// You can:
+    - start/stop scanning;
+    - see founded devises in tableView;
+    - try to connect;
+    - see info about connection/unconnection/errors
+
+Thank You!

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F2F1BA9221AD9E400DD7773 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 0F2F1BA8221AD9E400DD7773 /* README */; };
 		0F398ECE21FF02E900ADF0E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F398ECD21FF02E900ADF0E7 /* AppDelegate.swift */; };
 		0F398ED321FF02E900ADF0E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F398ED121FF02E900ADF0E7 /* Main.storyboard */; };
 		0F398ED521FF02EA00ADF0E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F398ED421FF02EA00ADF0E7 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F2F1BA8221AD9E400DD7773 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		0F398ECA21FF02E900ADF0E7 /* BluetoothScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BluetoothScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F398ECD21FF02E900ADF0E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0F398ED221FF02E900ADF0E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		0F398EC121FF02E900ADF0E7 = {
 			isa = PBXGroup;
 			children = (
+				0F2F1BA8221AD9E400DD7773 /* README */,
 				0F398ECC21FF02E900ADF0E7 /* BluetoothScanner */,
 				0F398ECB21FF02E900ADF0E7 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F2F1BA9221AD9E400DD7773 /* README in Resources */,
 				0F398ED821FF02EA00ADF0E7 /* LaunchScreen.storyboard in Resources */,
 				0F398ED521FF02EA00ADF0E7 /* Assets.xcassets in Resources */,
 				0F398ED321FF02E900ADF0E7 /* Main.storyboard in Resources */,
